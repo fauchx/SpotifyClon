@@ -8,7 +8,7 @@ Este proyecto es un clon de Spotify en la parte del frontend totalmente, una apl
 - Tailwind
 - Javascript
 
-###Instalacion
+### Instalacion
 - Para clonar el repositorio
 `$ git clone https://github.com/fauchx/SpotifyClon.git`
 
