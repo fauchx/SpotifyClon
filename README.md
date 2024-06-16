@@ -6,6 +6,7 @@ Este proyecto es un clon de Spotify en la parte del frontend totalmente, una apl
 - Typescript
 - Svelte
 - Tailwind
+- Javascript
 
 ###Instalacion
 - Para clonar el repositorio
